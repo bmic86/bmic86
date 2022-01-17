@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+My name is Bartosz :grinning:.
+
+I'm working as a software engineer :technologist:.
+
+I'm developing software in [#csharp](https://github.com/topics/csharp) and [#dotnet](https://github.com/dotnet), but I also like to experiment :test_tube: with other programming languages and technologies.
+
+I use GitHub to learn 🌱 and explore 🔭 new things about software development.
 
 <!--
 **bmic86/bmic86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
